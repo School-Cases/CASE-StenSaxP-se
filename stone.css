@@ -1,0 +1,41 @@
+/* * {
+    border: 2px solid rgb(182, 176, 176);
+} */
+
+.center {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pointer:hover {
+    cursor: pointer;
+    box-shadow: 2px 1px;
+}
+
+.val {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 75px;
+    border: 2px solid rgb(182, 176, 176);
+}
+
+.marginBot {
+    margin-bottom: 20px;
+}
+
+.fatterText {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#saxp1, #saxData {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#stenp1, #stenData {
+    font-family: fantasy;
+}
+#påsep1, #påseData {
+    font-family: cursive;
+}
